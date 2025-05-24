@@ -4,7 +4,7 @@ Here is the relevant dataset and open-source code for the article titled "Atten-
 
 *   The “Atten-TPL” folder includes datasets used for experiment and the code of our proposed Atten-TPL model.
 
-*   The “Baseline” folder contains the codes of all baseline models, including: CrossRec, LibSeek, GRec, HCF, PyRec.
+*   The “Baseline” folder contains the codes of all baseline models, including: CrossRec, LibSeek, GRec, HCF.
 
 ## Atten-TPL
 
@@ -14,7 +14,7 @@ Here is the relevant dataset and open-source code for the article titled "Atten-
 
 Due to GitHub size limitations, please download the data from the link below:
 
-📦 [Download ](https://1drv.ms/u/c/60fc0a461db10018/ERFCdD3o3NlEqjc6lDHYrcEBoRiiHns-mix4thACwE6lWw?e=0J2Nj8)`data.zip` (Google Drive)
+📦 Download [data.zip](https://1drv.ms/u/c/60fc0a461db10018/ERFCdD3o3NlEqjc6lDHYrcEBoRiiHns-mix4thACwE6lWw?e=0J2Nj8) (Google Drive)
 
 #### **Step 2. Unzip the data**
 
